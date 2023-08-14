@@ -1,0 +1,14 @@
+*
+!*/
+
+!.gitignore
+!hello-world.js
+!lasagna.js
+!annalyns-infiltration.js
+!freelancer-rates.js
+
+annalyns-infiltration/.gitignore
+freelancer-rates/.gitignore
+hello-world/.gitignore
+lasagna/.gitignore
+poetry-club-door-policy/.gitignore
